@@ -3,6 +3,11 @@
 ## Overview
 Welcome to the **Toronto One-Day City Explorer App**! This app is designed to guide tourists through a curated selection of activities when spending a day in Toronto. Users can explore different itinerary options based on their interests, including adventure, history, food, and nightlife.
 
+## Video Demo
+<a href="https://www.youtube.com/shorts/wwpkNmXBJDo">
+  <img src="https://github.com/user-attachments/assets/9ca09153-894f-44de-8b5e-f5a9d82be7e8" alt="CityApp Modern UI" width="300" height="600"/>
+</a>
+
 ## Features
 - **Modern UI Design:** The app features a sleek, user-friendly interface with a responsive and visually appealing design.
 - **Welcome Screen:** Displays a GIF of Toronto with the text "Welcome to Toronto" and a button to explore one-day itineraries.
@@ -18,13 +23,6 @@ Welcome to the **Toronto One-Day City Explorer App**! This app is designed to gu
 - **Smooth Navigation:** Users can easily navigate between screens using Flutter’s Navigator system, providing a seamless user experience.
 - **Optimized Performance:** Efficient state management ensures a smooth experience across different screen sizes and devices.
 - **Adaptive Layout:** The UI adapts dynamically to different screen sizes and orientations, making it fully responsive.
-
-  
-## Video Demo
-<a href="https://www.youtube.com/shorts/wwpkNmXBJDo">
-  <img src="https://github.com/user-attachments/assets/9ca09153-894f-44de-8b5e-f5a9d82be7e8" alt="CityApp Modern UI" width="300" height="600"/>
-</a>
-
 
 ## Installation & Setup
 To run this app locally:
