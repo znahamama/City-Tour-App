@@ -22,7 +22,7 @@ Welcome to the **Toronto One-Day City Explorer App**! This app is designed to gu
   
 ## Video Demo
 <a href="https://www.youtube.com/shorts/wwpkNmXBJDo">
-  <img src="https://github.com/user-attachments/assets/40bcfeac-a175-487d-b8d7-0673dcb30bc7" alt="CityApp Modern UI" width="300" height="600"/>
+  <img src="https://github.com/user-attachments/assets/9ca09153-894f-44de-8b5e-f5a9d82be7e8" alt="CityApp Modern UI" width="300" height="600"/>
 </a>
 
 
