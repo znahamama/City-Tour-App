@@ -21,7 +21,7 @@ Welcome to the **Toronto One-Day City Explorer App**! This app is designed to gu
 
   
 ## Video Demo
-[![CityApp Modern UI](https://img.youtube.com/vi/wwpkNmXBJDo/maxresdefault.jpg)](https://www.youtube.com/shorts/wwpkNmXBJDo)
+[![CityApp Modern UI](https://github.com/user-attachments/assets/40bcfeac-a175-487d-b8d7-0673dcb30bc7)](https://www.youtube.com/shorts/wwpkNmXBJDo)
 
 
 ## Installation & Setup
