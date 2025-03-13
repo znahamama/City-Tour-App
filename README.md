@@ -19,8 +19,10 @@ Welcome to the **Toronto One-Day City Explorer App**! This app is designed to gu
 - **Optimized Performance:** Efficient state management ensures a smooth experience across different screen sizes and devices.
 - **Adaptive Layout:** The UI adapts dynamically to different screen sizes and orientations, making it fully responsive.
 
+  
 ## Video Demo
-Check out a short YouTube demo of the app: [CityApp Modern UI - YouTube](https://www.youtube.com/shorts/wwpkNmXBJDo)
+[![CityApp Modern UI](https://img.youtube.com/vi/wwpkNmXBJDo/maxresdefault.jpg)](https://www.youtube.com/shorts/wwpkNmXBJDo)
+
 
 ## Installation & Setup
 To run this app locally:
