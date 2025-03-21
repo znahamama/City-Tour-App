@@ -46,6 +46,4 @@ To run this app locally:
 - **Local Storage (Optional Enhancements)** for caching itineraries and user preferences
 - **Custom Animations** for smooth transitions and UI interactions
 
-## Contributors
-Developed as part of a project requirement for learning Flutter navigation and UI layouts.
 
