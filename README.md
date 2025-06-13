@@ -4,9 +4,10 @@
 Welcome to the **Toronto One-Day City Explorer App**! This app is designed to guide tourists through a curated selection of activities when spending a day in Toronto. Users can explore different itinerary options based on their interests, including adventure, history, food, and nightlife.
 
 ## Video Demo
-<a href="https://www.youtube.com/shorts/wwpkNmXBJDo">
-  <img src="https://github.com/user-attachments/assets/9ca09153-894f-44de-8b5e-f5a9d82be7e8" alt="CityApp Modern UI" width="300" height="600"/>
+<a href="https://github.com/user-attachments/assets/7e1c2965-55dd-4137-98cc-26dab15dcab5">
+  <img src="https://github.com/user-attachments/assets/7e1c2965-55dd-4137-98cc-26dab15dcab5" width="300" height="600" />
 </a>
+
 
 ## Features
 - **Modern UI Design:** The app features a sleek, user-friendly interface with a responsive and visually appealing design.
